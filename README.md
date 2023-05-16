@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hey you!👋  I’m Ajay.<br><br>I am a Computer Science Masters student at University of Virginia.<br><br>Explore my profile and feel free to get in touch anytime ☕.
+Hey you!👋  I’m Ajay.<br><br>I am a Computer Science Masters student at University of Virginia.<br><br>Explore my profile and feel free to get in touch anytime ☕.<br>
 Want to get to know me more? Click here( https://ajs997.github.io/ )
 
 ## 💻 Tech I like to work on:
